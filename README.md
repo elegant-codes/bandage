@@ -1,14 +1,12 @@
 ## Bandage Ecommerce
 
+Link: https://bandage-ecommerce-snowy.vercel.app/
+
 A NextJs Ecommerce webapp that uses:
 
 - MUI
 - TailwindCSS
 - ReduxToolKit
-
-## Deployed on Vercel
-
-Link:
 
 ## Getting started:
 
