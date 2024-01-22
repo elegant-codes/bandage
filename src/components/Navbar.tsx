@@ -33,6 +33,7 @@ const Navbar = () => {
         </div>
       </div>
 
+      {/* SM SCREEN DROPDOWN */}
       {showDropdown && (
         <div className="flex justify-center py-20 bg-ban-light lg:hidden ">
           <div className="w-[123px] h-[270px] flex-col justify-start items-center gap-[30px] inline-flex">
